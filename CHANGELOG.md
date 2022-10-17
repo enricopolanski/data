@@ -1,5 +1,13 @@
 # @fp-ts/data
 
+## 0.0.3
+
+### Patch Changes
+
+- [#47](https://github.com/fp-ts/data/pull/47) [`5f4bb9b`](https://github.com/fp-ts/data/commit/5f4bb9b994da3d7a49de792470fcd556ee7af53d) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Unify Equals and Hash
+
+- [#46](https://github.com/fp-ts/data/pull/46) [`7510558`](https://github.com/fp-ts/data/commit/7510558c0f84d805298aed9c0a664db084a1eedf) Thanks [@IMax153](https://github.com/IMax153)! - fix MonoidMultiply.combineAll
+
 ## 0.0.2
 
 ### Patch Changes
